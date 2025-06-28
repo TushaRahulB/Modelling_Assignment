@@ -1,9 +1,9 @@
 # ABC Retail Sales Prediction Model
 
-## 📌 Purpose
+## Purpose
 Predict store sales performance and identify optimal expansion locations for ABC Retail's apparel stores using machine learning.
 
-## 🔍 Key Features
+## Key Features
 - **Linear regression** (OLS) with p-value validation
 - **VIF-based feature selection** (removed features with VIF > 5)
 - **Automated Excel reporting** with model coefficients
