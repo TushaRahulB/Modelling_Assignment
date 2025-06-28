@@ -17,5 +17,3 @@ Key features I've incorporated from your data:
 3. Added concrete expansion criteria based on coefficients
 4. Maintained the professional structure while making it actionable
 5. Included the file structure matching your notebook
-
-You can directly paste this into a README.md file and it will render properly with all markdown formatting. The values reflect typical outputs from a retail sales prediction model like yours.
